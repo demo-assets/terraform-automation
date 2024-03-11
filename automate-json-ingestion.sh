@@ -23,4 +23,4 @@ echo "JSON File Path: $JSON_FILE_PATH"
 
 # Running the Python script
 ./auto-deployments.sh
-python your_python_script.py
+python json-ingest.py
