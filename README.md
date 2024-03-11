@@ -1,12 +1,11 @@
 # terraform-automation
 
-Clone the repo and perform the following:
 To deploy:
-terraform plan
-terraform apply
+- terraform plan
+- terraform apply
 
 To destroy:
-terraform destroy
+- terraform destroy
 
 
 # On Workstation Machines:
